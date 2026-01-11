@@ -1,0 +1,5 @@
+Algorithm,Text Size,Time (ms),Comparisons
+Brute Force,300,0.1999999999782176,311
+Boyer Moore,300,0.0,116
+Brute Force,500,0.2000000000066393,514
+Boyer Moore,500,0.10000000000331966,179
